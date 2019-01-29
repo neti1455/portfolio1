@@ -1,0 +1,42 @@
+.red{
+  color: #EA4335;
+}
+.blue{
+  color: #4285F4;
+}
+.yellow{
+  color: #FBBC05;
+}
+.green{
+  color: #34A853;
+}
+
+.Google {
+display:flex;
+
+}
+
+#home{
+  display: flex;
+  text-decoration: none;
+
+}
+
+.searchbar {
+    margin-left:1em;
+    margin-top: 2em;
+
+}
+
+.searchbutton {
+    display: flex;
+    flex-direction: row;
+}
+
+.optiontabs {
+      display: flex;
+      flex-direction: rox;
+      justify-content: space-around;
+      list-style-type: none;
+      font-size: 12;
+}
